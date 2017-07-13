@@ -1,7 +1,7 @@
 #!/bin/bash
 
 git clone https://github.com/supermarin/YosemiteSanFranciscoFont.git && \
-cd YosemiteSnaFranciscoFont/ && \
+cd YosemiteSanFranciscoFont/ && \
 cp *.ttf ~/.fonts && \
 sudo apt-get install lxappearance && \
 sudo apt-get install gnome-icon-theme-full && \
